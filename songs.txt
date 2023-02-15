@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 my song list
 lint no 2
 
@@ -24,3 +25,27 @@ Were you only imaginary?
 ==============================================
 new changes
 
+=======
+my song list
+lint no 2
+
+Alan Walker Lyrics
+"Faded"
+(feat. Iselin Solheim)
+
+You were the shadow to my light
+Did you feel us?
+Another star
+You fade away
+Afraid our aim is out of sight
+Wanna see us
+Alight
+
+Where are you now?
+Where are you now?
+Where are you now?
+Was it all in my fantasy?
+Where are you now?
+Were you only imaginary?
+
+>>>>>>> e9feeba5aef18166adcd41fda9c99d2b6333d284
